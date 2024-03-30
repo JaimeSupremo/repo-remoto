@@ -1,3 +1,3 @@
 # Repositório local
 
-Descrição inserida no repositório local depois do clone.
+Conteúdo do arquivo "commitado" na branch remota
